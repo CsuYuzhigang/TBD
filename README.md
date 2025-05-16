@@ -14,7 +14,7 @@ The statistics of datasets are listed as follows:
 |  USLegis   |Politics Networks |   225   | 60,396  |     26,423     |         0 & 1          |    Congresses    |  12 congresses  |
 
 
-Processed datasets can be downloaded [here](https://pan.baidu.com/s/1PjQDAzl9cO68l5_PnsshfA?pwd=qur2). After downloading, place the downloaded dataset under the "processed_data" directory.
+Processed datasets can be downloaded [here](https://pan.baidu.com/s/1PjQDAzl9cO68l5_PnsshfA?pwd=qur2). After downloading, place the downloaded datasets under the "/processed_data" directory.
 
 ### Model Training
 

@@ -18,7 +18,7 @@ Processed datasets can be downloaded [here](https://pan.baidu.com/s/1PjQDAzl9cO6
 
 ### Model Training
 
-You can train the model by running the following command as a example:
+You can train the model by running the following commands as examples:
 
 ```python train.py --dataset_name Infectious --model_name TBD --negative_sample_strategy random --num_runs 5 --gpu 0 --load_best_configs```
 
@@ -34,7 +34,7 @@ dataset_name can be chosen from:
 
 ### Model Evaluation
 
-After training the model, you can evaluate the model by running the following command as a example:
+After training the model, you can evaluate the model by running the following command as an example:
 
 ```python evaluate.py --dataset_name Infectious --model_name TBD --negative_sample_strategy inductive --num_runs 5 --gpu 0 --load_best_configs```
 
